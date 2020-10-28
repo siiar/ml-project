@@ -1,0 +1,10 @@
+﻿Encodings,Sampling,AUC,Precision,Recall,F1-score
+LeaveOneOut,Class reweight,78,72,72,72
+LeaveOneOut,SMOTE,78,72,72,72
+LeaveOneOut,ADASYN,77,72,72,72
+CatBoost,Class reweight,75,69,69,69
+CatBoost,SMOTE,75,69,69,69
+CatBoost,ADASYN,75,69,69,69
+Target,Class reweight,95,91,91,91
+Target,SMOTE,94,90,89,89
+Target,ADASYN,94,90,88,88
